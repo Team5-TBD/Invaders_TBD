@@ -1,0 +1,55 @@
+<application>
+  <component name="MetricsReloaded">
+    <option name="selectedProfilePrebuilt" value="true" />
+    <option name="selectedProfile" value="Chidamber-Kemerer metrics" />
+    <option name="prebuilt" value="true" />
+    <layout>
+      <profile name="Chidamber-Kemerer metrics">
+        <metrics_layout>
+          <tables>
+            <table category="Method">
+              <table_layout />
+            </table>
+            <table category="Class">
+              <table_layout>
+                <column_order>
+                  <c>class</c>
+                  <c>CBO</c>
+                  <c>DIT</c>
+                  <c>LCOM</c>
+                  <c>NOC</c>
+                  <c>RFC</c>
+                  <c>WMC</c>
+                </column_order>
+                <column_widths>
+                  <w>178</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                </column_widths>
+              </table_layout>
+            </table>
+            <table category="Interface">
+              <table_layout />
+            </table>
+            <table category="Package">
+              <table_layout />
+            </table>
+            <table category="Module">
+              <table_layout />
+            </table>
+            <table category="FileType">
+              <table_layout />
+            </table>
+            <table category="Project">
+              <table_layout />
+            </table>
+          </tables>
+        </metrics_layout>
+      </profile>
+    </layout>
+  </component>
+</application>
